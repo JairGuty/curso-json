@@ -1,0 +1,43 @@
+{
+    "name": "Juan",
+    "lastname": "Lopez",
+    "age": "25",
+    "nickname": "Juanito",
+    "hobbies": [
+        "run",
+        "code",
+        "read",
+        "eat"
+    ],
+    "address": {
+        "street": "Calle main 123",
+        "city": "Barranquilla"
+    },
+    "married": false,
+    "friends": [
+        {
+            "name": "Jair",
+            "nickname": "Jairito"
+        },
+        {
+            "name": "Marcos",
+            "nickname": "Marquito"
+        },
+        {
+            "name": "Pablo",
+            "nickname": "Pablito"
+        },
+        {
+            "name": "Carlos",
+            "nickname": "Carlito"
+        },
+        {
+            "name": "Jose",
+            "nickname": "Joselito"
+        },
+        {
+            "name": "Miguel",
+            "nickname": "Miguelito"
+        }
+    ]
+}
